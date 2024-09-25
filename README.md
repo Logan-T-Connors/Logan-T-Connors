@@ -10,8 +10,9 @@ I'm Logan Connors or PPRClip pronounced "Paper Clip", a passionate software\Game
 - I'm currently working on projects that help me learn and further my current knowledge.
 - I enjoy learning programming anything related to games and hacking.
 
-### Let's Connect 
-- Feel free to contact me through Discord: rusty_rollrr.
+### Contact Me 
+- Feel free to contact me by Email: loganconnors186@gmail.com
+- Feel free to contact me on Discord: rusty_rollrr.
 - Check out my Linktree: https://linktr.ee/PPRClip
 - Check out my YouTube channel: https://www.youtube.com/@PPRClip.
 - Check out my Twitch: https://www.twitch.tv/pprclip. 
