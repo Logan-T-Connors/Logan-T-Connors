@@ -3,7 +3,7 @@ I'm Logan Connors or PPRClip pronounced "Paper Clip", a passionate software\Game
 
 ### About Me 
 - Programming Languages: I know the languages in HTML, CSS, JavaScript, and Python.
-- Currently Learning: The languages i'm learning are C#, C++.
+- Currently Learning: The languages i'm learning are C++ and x86 ASM.
 - Coding Journey: I started on my coding journey in 2022-2023 and have been on a slow but continuous journey ever since.
 
 ### What I Do 
