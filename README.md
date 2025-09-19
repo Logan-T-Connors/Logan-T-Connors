@@ -2,11 +2,11 @@
 - I'm Logan Connors or PPRClip pronounced "Paper Clip", a passionate software\Game developer with a love for coding.
 - Programming Languages: I know the languages in HTML, CSS, JavaScript, and Python.<br>
 - Currently Learning: The languages i'm learning are C++ and x86 ASM.<br>
-- Coding Journey: I started on my coding journey in 2022-2023 and have been on a slow but continuous journey ever since.<br><br>
+- Coding Journey: I started on my coding journey in 2022-Present and have been on a slow but continuous journey ever since.<br><br>
 
 ### What I Do <br>
 - I'm currently working on projects that help me learn and further my current knowledge.<br>
-- I enjoy learning programming anything related to games and hacking.<br><br>
+- I enjoy learning programming anything related to games and game hacking (security, low-level programming, reverse engineering Etc...).<br><br>
 
 ### 🌐 Socials/Contact Me <br>
 - Feel free to contact me by Email: loganconnors186@gmail.com<br>
